@@ -27,8 +27,8 @@ plt.xlabel('$x$')
 plt.ylabel('$F_X(x)$')
 
 #if using termux
-plt.savefig('gau_cdf.pdf')
-plt.savefig('gau_cdf.eps')
+plt.savefig('gauss_cdf.pdf')
+plt.savefig('gauss_cdf.eps')
 
 #if using termux
 #plt.savefig('../figs/gauss_cdf.pdf')
